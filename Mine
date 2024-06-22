@@ -3,8 +3,6 @@ sudo apt update -y
 cd /tmp
 sudo apt upgrade -y
 
-#Tst Run
-
 sudo apt install build-essential -y
 
 
