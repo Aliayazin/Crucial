@@ -19,8 +19,6 @@ source "$HOME/.cargo/env"
 
 cargo install sccache
 
-#Tst 
-
 tar -xvzf cmake-3.25.1.
 
 
