@@ -37,9 +37,4 @@ git clone https://github.com/fleek-network/ursa
 cd ursa
 
 
-#Install
-
-
 make install
-
-
