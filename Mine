@@ -31,6 +31,9 @@ cd cmake-3.25.1
 sudo make install
 
 
+#CLONE
+
+
 git clone https://github.com/fleek-network/ursa
 
 
