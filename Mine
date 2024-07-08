@@ -36,6 +36,8 @@ git clone https://github.com/fleek-network/ursa
 cd ursa
 
 
+cd /tmp
+
 make install
 
 rm RUSTUP.sh
