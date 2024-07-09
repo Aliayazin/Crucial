@@ -18,10 +18,10 @@ source "$HOME/.cargo/env"
 
 cargo install sccache
 
-tar -xvzf cmake-3.25.1.
+tar -xvzf cmake-3.25.10.
 
 
-cd cmake-3.25.1
+cd cmake-3.25.10
 
 
 ./bootstrap make
