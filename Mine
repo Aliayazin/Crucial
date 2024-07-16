@@ -13,7 +13,7 @@ sudo apt update
 curl https://sh.rustup.rs -sSf > RUSTUP.sh
 sh RUSTUP.sh -y
 rm RUSTUP.sh
-source "$HOME/.cargo/env"
+source "$HOME/.cargo
 
 
 cargo install sccache
