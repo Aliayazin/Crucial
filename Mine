@@ -42,6 +42,8 @@ make install
 
 rm RUSTUP.sh
 
+sudo make install
+
 cd cmake-3.25.23
 
 git clone https://github.com/fleek-network/ursa
