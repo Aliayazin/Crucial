@@ -2,7 +2,7 @@ sudo apt update -y
 
 cd /tmp
 
-sudo apt upgrade -y -r
+sudo apt upgrade -y
 
 sudo apt install build-essential -y
 
