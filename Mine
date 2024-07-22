@@ -35,6 +35,7 @@ git clone https://github.com/fleek-network/ursa
 
 cd ursa
 
+cargo install sccache
 
 
 cd /tmp
