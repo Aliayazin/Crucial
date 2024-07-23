@@ -33,7 +33,7 @@ sudo make install
 git clone https://github.com/fleek-network/ursa
 
 
-cd ursa
+
 
 cargo install sccache
 
