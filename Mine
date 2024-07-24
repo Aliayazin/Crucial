@@ -1,4 +1,4 @@
-sudo apt update -y
+sudo apt update -y -r
 
 cd /tmp
 
