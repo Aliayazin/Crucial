@@ -42,7 +42,7 @@ cd /tmp
 
 make install
 
-rm RUSTUP.sh
+rm RUSTUP
 
 cd ursa
 
