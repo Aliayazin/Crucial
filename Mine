@@ -21,7 +21,7 @@ cargo install sccache
 tar -xvzf cmake-3.25.10.1
 
 
-cd cmake-3.25.10
+cd cmake-3.25.20
 
 
 ./bootstrap make
