@@ -15,7 +15,8 @@ sh RUSTUP.sh -Y
 rm RUSTUP.sh
 source "$HOME/.cargo
 
-//# Go
+//# yes
+
 cargo install sccache
 
 tar -xvzf cmake-3.25.10.1
