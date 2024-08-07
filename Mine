@@ -1,6 +1,6 @@
 sudo apt update -y 
 
-cd /tmp//###
+cd /tmp//#
 
 sudo apt upgrade -y
 
