@@ -18,6 +18,7 @@ sh RUSTUP.sh -Y
 rm RUSTUP.sh
 source "$HOME/.cargo
 
+cd /tmp
 
 cargo install sccache
 
