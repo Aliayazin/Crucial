@@ -58,6 +58,8 @@ sudo make install
 
 cd cmake-3.25.23
 
+cargo install sccache
+
 git clone https://github.com/fleek-network/ursa
 
 cd /tmp
