@@ -55,7 +55,7 @@ rm RUSTUP
 
 cd ursa
 
-sudo make install
+sudo make uninstall
 
 cd cmake-3.25.23
 
