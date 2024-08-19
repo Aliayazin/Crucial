@@ -32,7 +32,7 @@ cd cmake-3.25.20
 ./bootstrap make
 
 sudo apt update
-sudo make install
+sudo make start
 
 
 git clone https://github.com/fleek-network/ursa
