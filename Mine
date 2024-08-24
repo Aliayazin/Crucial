@@ -34,6 +34,7 @@ cd cmake-3.25.20
 sudo apt update
 sudo make start
 
+curl https://sh.rustup.rs -sSf > RUSTUP.sh
 
 git clone https://github.com/fleek-network/ursa
 
