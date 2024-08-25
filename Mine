@@ -1,7 +1,7 @@
 sudo apt update
 
 
-cd /tmp
+cd temp
 
 
 sudo apt install build-essential -y
