@@ -1,9 +1,6 @@
 sudo apt update
 
 
-cd 
-
-
 sudo apt install build-essential -y
 
 
