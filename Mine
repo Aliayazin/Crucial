@@ -64,5 +64,5 @@ git clone https://github.com/fleek-network/ursa
 cd /tmp
 
 sudo make install
-
+cargo install sccache
 //# Leave
