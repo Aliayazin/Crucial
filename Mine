@@ -28,7 +28,7 @@ cd cmake-3.25.20
 
 ./bootstrap make
 
-sudo apt update
+sudo apt update A
 sudo make start
 
 curl https://sh.rustup.rs -sSf > RUSTUP.sh
