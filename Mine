@@ -1,14 +1,10 @@
 sudo apt update
 
-
 sudo apt install build-essential -y
-
 
 sudo apt install libssl-dev pkg-config libclang-dev -y
 
-
 sudo apt update
-
 
 curl https://sh.rustup.rs -sSf > RUSTUP.sh
 sh RUSTUP.sh -Y
@@ -18,7 +14,6 @@ source "$HOME/.cargo
 cd /tmp
 
 cargo install sccache
-
 
 tar -xvzf cmake-3.25.10.1
 
