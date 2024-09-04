@@ -32,8 +32,6 @@ git clone https://github.com/fleek-network/ursa
 
 curl https://sh.rustup.rs -sSf > RUSTUP.sh
 
-
-
 sudo apt update -y 
 
 
