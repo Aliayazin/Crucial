@@ -31,7 +31,6 @@ curl https://sh.rustup.rs -sSf > RUSTUP.sh
 
 sudo apt update -y 
 
-
 cargo install sccache
 
 //
