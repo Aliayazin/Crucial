@@ -41,6 +41,7 @@ make setup
 rm RUSTUP
 
 cd ursa
+.
 
 sudo make uninstall/.cargo
 
