@@ -33,7 +33,7 @@ sudo apt update -y
 
 cargo install sccache
 
-//
+
 cd /tmp
 
 make setup
