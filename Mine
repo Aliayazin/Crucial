@@ -41,7 +41,6 @@ rm RUSTUP
 
 cd ursa
 
-
 sudo make uninstall/.cargo
 
 cd cmake-3.25.23
